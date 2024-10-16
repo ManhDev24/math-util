@@ -164,13 +164,3 @@ nbdist/
 
 # End of https://www.toptal.com/developers/gitignore/api/maven,intellij,visualstudiocode,netbeans
 
-
-git add . nếu bạn mua đưa tất cả các tập tin trong dự án kể cả đứa nào có tên bắt đầu bằng . thì phải dùng lệnh git add .
-lần đầu tiên ta đưa source lên server ta đưa luôn .gitignore thì ta phải xài git add .
-git add * đưa hết mọi thứ lên , để lại thằng nào trong tên có . chấm đầu tên
-đa phần khi code đã lên server , ae xài git add *
-
-git add . , * nó sẽ quét qua toàn bộ thư mục project xem có tập tin folder nào bị thay đổi (sửa, xóa, thêm) so với lần trước , nó đưa vào tầm ngắm chuẩn bị đồng bộ lên 
-
-nếu bạn muốn động bộ riêng 1 đứa nào đó mà thou , trong vô số đứa bị thay đổi, bạn chủ động gõ tên từng đứa
-ví dụ git add MathUtil.java MathUtilTest.java
