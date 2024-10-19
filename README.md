@@ -1,3 +1,5 @@
+[![Math Utility Project (CI included) | © 2024 by ManhDev24](https://github.com/ManhDev24/math-util/actions/workflows/ci-script-with-Junit.yml/badge.svg)](https://github.com/ManhDev24/math-util/actions/workflows/ci-script-with-Junit.yml)
+
 # Math Utility (Maven project )
 
 ## Welcome to Math Utility 
